@@ -1,12 +1,23 @@
-# React + Vite
+🔮 Mystical Fortune Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mystical Fortune Project is an interactive, tarot-inspired web application that offers users a personalized fortune-telling experience. Utilizing modern web technologies, this project combines elements of mysticism with intuitive design to provide insights into users' futures.
 
-Currently, two official plugins are available:
+🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Experience the magic here: https://p95211.github.io/Mystical-fortune-project/
 
-## Expanding the ESLint configuration
+🛠 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tarot Card Draw: Users can draw a virtual tarot card to receive a personalized fortune.
+
+Responsive Design: Optimized for both desktop and mobile devices.
+
+Modern UI: Clean and intuitive interface for a seamless user experience.
+
+⚙️ Technologies Used
+
+HTML5: Structure and semantics of the web pages.
+
+CSS3: Styling and layout of the application.
+
+JavaScript: Interactivity and dynamic content rendering.
